@@ -1,0 +1,18 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"cookie-parser": "^1.4.6",
+		"dotenv": "^16.4.5",
+		"express": "^4.14.0",
+		"fcc-express-bground": "^0.0.5"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node --watch server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
+}
